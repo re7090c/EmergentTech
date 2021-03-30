@@ -1,0 +1,7 @@
+<WorldCreator Version="2.0">
+  <Textures Preview="preview.png" Tags="grass" Description="" Publisher="GameTextures" Website="https://www.gametextures.com/" Guid="bf019e3d-511a-4c6d-a3ae-ec495e3e63df">
+    <Diffuse File="Ground_ScrubGrassField_col.png" Time="131898886580000000" />
+    <Normal File="Ground_ScrubGrassField_norm.png" Time="131956033860000000" />
+    <Displacement File="" Time="132581367172984556" />
+  </Textures>
+</WorldCreator>
